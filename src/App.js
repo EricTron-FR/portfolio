@@ -1,21 +1,17 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import './App.module.scss';
-import BaseLayout from './components/BaseLayout';
-import { BrowserRouter } from 'react-router-dom';
-import { logGa } from './utils/log';
+import BaseLayout from "./components/BaseLayout";
+import {BrowserRouter} from "react-router-dom";
 
 function App() {
-  useEffect(() => {
-    logGa('home_page_visit');
-  }, []);
-
-  return (
-    <div>
-      <BrowserRouter>
-        <BaseLayout />
-      </BrowserRouter>
-    </div>
-  );
+   return (
+      <div>
+         <BrowserRouter>
+            <BaseLayout/>
+         </BrowserRouter>
+      </div>
+   );
 }
+
 
 export default App;
