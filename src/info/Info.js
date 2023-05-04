@@ -105,7 +105,7 @@ export const info = {
             title: "Research and Development Engineer",
             company: "Inetum",
             date: "June 2018 - July 2021",
-            description: "- I work on creating a project from scratch for HR management.",
+            description: "- I worked on creating a project from scratch for HR management.",
             description2: "This project involved utilizing Java 8 and Angular 6 to develop the application. I also worked with Oracle for data storage."
 
         },
