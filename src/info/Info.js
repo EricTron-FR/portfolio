@@ -115,9 +115,14 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
+            title: "Co-Up",
             live: "https://co-up.tech", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             image: mock1
+        },
+        {
+            title: "Cosy-Lofi",
+            live: "https://www.cosylofi.com", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            image: mock2
         }
   /*      {
             title: "Project 2",
