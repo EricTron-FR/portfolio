@@ -92,25 +92,28 @@ export const info = {
             title: "Software Engineer",
             company: "Sequoiasoft",
             date: "2023 - Present",
-            description: "I work on a team of 5 developers to build and maintain a suite of hospitality management software. I'm responsible for the front-end of our web application, as well as the back-end of our mobile application."
+            description: "I work on a team of 5 developers to build and maintain a suite of Camping management software. I'm responsible for the front-end (React) of our web application, as well as the back-end(Java)."
         },
         {
             title: "Fullstack Developer",
             company: "Smile",
             date: "July 2021 - Nov 2022",
-            description: "I worked on the creation of a feed aggregator for a banking sector client. This project involved utilizing Java 8 and Angular 11 to develop the application, calling various APIs such as Twitter and YouTube to populate the feeds, and working with MySQL for data storage."
+            description: "- I worked on the creation of a feed aggregator for a banking sector client. ", 
+            description2: "This project involved utilizing Java 8 and Angular 11 to develop the application, calling various APIs such as Twitter and YouTube to populate the feeds, and working with MySQL for data storage."
         },
         {
             title: "Research and Development Engineer",
             company: "Inetum",
             date: "June 2018 - July 2021",
-            description: "I work on a team of 5 developers to build and maintain a suite of hospitality management software. I'm responsible for the front-end of our web application, as well as the back-end of our mobile application."
+            description: "- I work on creating a project from scratch for HR management.",
+            description2: "This project involved utilizing Java 8 and Angular 6 to develop the application. I also worked with Oracle for data storage."
+
         },
         {
             title: "Software Engineer",
             company: "Capgemini",
             date: "March 2015 - June 2018",
-            description: "I work on a team of 5 developers to build and maintain a suite of hospitality management software. I'm responsible for the front-end of our web application, as well as the back-end of our mobile application."
+            description: "I work on maintain a Banking application in Java."
         }
     ],
     portfolio: [ // This is where your portfolio projects will be detailed

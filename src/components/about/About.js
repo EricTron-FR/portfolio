@@ -60,7 +60,7 @@ export default function About() {
             className={Style.green}>(main)</span> $</span> ls</p>
             <ul>
                 {info.work.map((job, index) => (
-                    <li key={index}><Box style={{fontWeight: "bold" }} component={'span'} mr={'1rem'}>{job.title} | {job.company} | {job.date} </Box><br /> {job.description} <hr/><br/></li>
+                    <li key={index}><Box style={{fontWeight: "bold" }} component={'span'} mr={'1rem'}>{job.title} | {job.company} | {job.date} </Box><br /> {job.description} <br/> {job.description2}</li>
                     
                 ))}
             </ul>
