@@ -92,7 +92,7 @@ export const info = {
             title: "Software Engineer",
             company: "Sequoiasoft",
             date: "2023 - Present",
-            description: "I work on a team of 5 developers to build and maintain a suite of Camping management software. I'm responsible for the front-end (React) of our web application, as well as the back-end(Java)."
+            description: "- I work on a team of 5 developers to build and maintain a suite of Camping management software. I'm responsible for the front-end (React) of our web application, as well as the back-end(Java)."
         },
         {
             title: "Fullstack Developer",
@@ -113,7 +113,7 @@ export const info = {
             title: "Software Engineer",
             company: "Capgemini",
             date: "March 2015 - June 2018",
-            description: "I work on maintain a Banking application in Java."
+            description: "- I work on maintain a Banking application in Java."
         }
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
