@@ -7,6 +7,7 @@ import { BiGitBranch } from "react-icons/bi";
 import Divider from "@mui/material/Divider";
 import { links } from "../pages/links";
 import { useNavigate } from "react-router-dom";
+import logo from "../../static/Coffee.gif";
 
 interface Props {
   expanded: boolean;
@@ -110,6 +111,31 @@ export default function Sidebar({
         justifyContent="center"
         flexDirection="column"
       >
+        <Tooltip
+          title={"Thanks for visiting my portfolio!"}
+          placement="right"
+          arrow
+        >
+          <Box
+            sx={{
+              flexGrow: 0,
+              fontSize: 24,
+              color: "#858585",
+              cursor: "pointer",
+              "&:hover": {
+                color: "white",
+              },
+              WebkitTapHighlightColor: "rgba(0,0,0,0)",
+            }}
+            display="flex"
+            justifyContent="center"
+          >
+            
+              <Box>
+                <img width={40} src={logo}/>
+              </Box>
+          </Box>
+        </Tooltip>
         <Tooltip
           title={darkMode ? "Turn on the light" : "Turn off the light"}
           placement="right"
