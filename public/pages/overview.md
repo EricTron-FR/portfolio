@@ -4,7 +4,6 @@
 
 Hello, i'm Eric a Senior Backend Software Engineer with 8 years of experience, specializing in Java and focused on developing optimized algorithms. Currently, I am employed at Payplug in Paris, France, where I apply my extensive backend development skills.
 
-
 ## Experience
 
 **Senior Backend Software Engineer** @ [Payplug](https://www.payplug.com/) _(Jul 2023 - Present)_
@@ -16,6 +15,19 @@ Focused on backend development, creating optimized algorithms in Java for financ
   - Implemented a new algorithmic solution that enhanced the performance of the transaction processing system by 40%.
   - Mentored junior developers, leading to a 15% increase in team productivity.
 - _**Technologies used:**_  Java 17/21, Spring-boot, PHP, GitLab CI/CD
+
+&nbsp;
+
+**Software Engineer** @ [Sequoiasoft](https://www.sequoiasoft.com/) _(Jan 2023 - May 2023)_
+
+Java/PHP/React Developer on a camping sector project to maintain and upgrade the already existing applications.
+
+- Detailed achievements:
+  - Revamped a client dashboard from PrimeFaces to React.
+  - Maintained Java applications, addressing bug fixes and implementing enhancements.
+  - Integrated a payment system for installment plans, supporting payments in three and four installments (x3 and x4).
+
+- _**Technologies used:**_  Java, PHP, React, MySQL, MongoDB, Kubernetes, GitLab
 
 &nbsp;
 

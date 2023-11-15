@@ -12,6 +12,19 @@ Focused on backend development, creating optimized algorithms in Java for financ
 
 &nbsp;
 
+**Software Engineer** @ [Sequoiasoft](https://www.sequoiasoft.com/) _(Jan 2023 - May 2023)_
+
+Java/PHP/React Developer on a camping sector project to maintain and upgrade the already existing applications.
+
+- Detailed achievements:
+  - Revamped a client dashboard from PrimeFaces to React.
+  - Maintained Java applications, addressing bug fixes and implementing enhancements.
+  - Integrated a payment system for installment plans, supporting payments in three and four installments (x3 and x4).
+
+- _**Technologies used:**_  Java, PHP, React, MySQL, MongoDB, Kubernetes, GitLab
+
+&nbsp;
+
 **Software Engineer** @ [Smile](https://www.smile.eu/fr) _(Jul 2021 - Nov 2022)_
 
 Java/Angular Developer on a banking sector project to create a feed aggregator using APIs like Twitter and YouTube.
