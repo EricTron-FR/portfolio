@@ -6,8 +6,6 @@ Focused on backend development, creating optimized algorithms in Java for financ
 
 - Detailed achievements:
   - Developed a series of advanced backend services designed to process financial transactions securely and efficiently.
-  - Implemented a new algorithmic solution that enhanced the performance of the transaction processing system by 40%.
-  - Mentored junior developers, leading to a 15% increase in team productivity.
 - _**Technologies used:**_  Java 17/21, Spring-boot, PHP, GitLab CI/CD
 
 &nbsp;
