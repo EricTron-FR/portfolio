@@ -1,5 +1,9 @@
 # 🧪 Projects
 
+## [Facebook-Clarity](https://github.com/EricTron-FR/Facebook-Clarity) 🔗
+- Chrome/Chromium extension to remove suggested post from Facebook
+- _**Technologies used:**_ Javascript
+
 ## [TwitterSponsorZap](https://github.com/EricTron-FR/TwitterSponsorZap) 🔗
 - Chrome/Chromium extension to remove sponsored post from Twitter/X
 - _**Technologies used:**_ Javascript
